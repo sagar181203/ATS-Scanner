@@ -1,5 +1,5 @@
 # Applicant Tracking System (ATS)
-https://ats-resume-scan.streamlit.app/
+https://ats-resume-scan.streamlit.app
 <br/>
 <br/>
 An intelligent Applicant Tracking System that helps analyze and process resumes using AI/ML techniques.
