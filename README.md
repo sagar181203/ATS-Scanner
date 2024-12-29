@@ -26,7 +26,7 @@ This project implements an Applicant Tracking System (ATS) that helps streamline
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/sagar181203/ATS-Scanner.git
 ```
 
 2. Navigate to the project directory:
